@@ -1,0 +1,4 @@
+./.rope*
+./build
+./dist
+./caps_lock.egg-info
