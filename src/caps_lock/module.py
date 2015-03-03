@@ -8,7 +8,6 @@ import commands
 import os
 import sys
 
-#CURRENT_DIR = '/home/27190057897/workspaces/python/caps-lock'
 SEP_CHAR = os.sep
 COMMAND = "xset q | grep LED"
 
